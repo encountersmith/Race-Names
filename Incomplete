@@ -1,0 +1,63 @@
+| Priority | Race                                 | Rarity   | Done? | Why this priority                                                                        |
+| -------: | ------------------------------------ | -------- | ----- | ---------------------------------------------------------------------------------------- |
+|        1 | Harengon                             | Uncommon | No    | Popular newer feywild race; fairly recognisable and distinct naming style.               |
+|        2 | Kender                               | Uncommon | No    | Classic Dragonlance race, fairly iconic despite being setting-linked.                    |
+|        3 | Vedalken                             | Uncommon | No    | Official playable race with a distinct naming style.                                     |
+|        4 | Khoravar                             | Uncommon | No    | Eberron-specific Half-Elf culture, useful if you are covering setting variants.          |
+|        5 | Dragonborn (Ravenite)                | Rare     | No    | Completes the Draconblood/Ravenite pair.                                                 |
+|        6 | Astral Elf                           | Rare     | No    | Popular Spelljammer elf variant; useful and visually distinct.                           |
+|        7 | Dhampir                              | Rare     | No    | Very popular gothic lineage and pairs well with Vampire/Reborn/Hexblood.                 |
+|        8 | Hexblood                             | Rare     | No    | Completes the gothic lineage set with Dhampir and Reborn.                                |
+|        9 | Reborn                               | Rare     | No    | Gothic lineage, useful for horror/undead themed characters.                              |
+|       10 | Githyanki                            | Rare     | No    | Important classic D&D species with strong lore presence.                                 |
+|       11 | Githzerai                            | Rare     | No    | Pairs naturally with Githyanki; important planar race.                                   |
+|       12 | Plasmoid                             | Rare     | No    | Spelljammer race, unusual but official and distinctive.                                  |
+|       13 | Thri-kreen                           | Rare     | No    | Classic D&D/Spelljammer/Dark Sun style race with a very distinct flavour.                |
+|       14 | Giff                                 | Rare     | No    | Recognisable Spelljammer race; strong naming flavour.                                    |
+|       15 | Autognome                            | Rare     | No    | Spelljammer race, useful if you are covering construct-like ancestries.                  |
+|       16 | Hadozee                              | Rare     | No    | Spelljammer race, less common but still official.                                        |
+|       17 | Simic Hybrid                         | Rare     | No    | Ravnica-specific but mechanically and thematically distinct.                             |
+|       18 | Grung                                | Rare     | No    | Popular monster-race option, especially for novelty characters.                          |
+|       19 | Locathah                             | Rare     | No    | Aquatic race, useful if expanding ocean-themed options.                                  |
+|       20 | Merfolk                              | Rare     | No    | Iconic fantasy ancestry, even if D&D use is setting-specific.                            |
+|       21 | Naga                                 | Rare     | No    | Strong fantasy identity, mostly setting-specific.                                        |
+|       22 | Siren                                | Rare     | No    | Mythic/fantasy race with clear naming flavour.                                           |
+|       23 | Lupin                                | Rare     | No    | Recognisable canine ancestry, but niche.                                                 |
+|       24 | Verdan                               | Rare     | No    | Official but less commonly used.                                                         |
+|       25 | Kor                                  | Rare     | No    | Zendikar-specific, useful only if covering MtG races.                                    |
+|       26 | Khenra                               | Rare     | No    | Amonkhet-specific, useful if covering MtG races.                                         |
+|       27 | Kithkin                              | Rare     | No    | Lorwyn-specific, niche.                                                                  |
+|       28 | Flamekin                             | Rare     | No    | Lorwyn/MtG-specific, niche.                                                              |
+|       29 | Rimekin                              | Rare     | No    | Very niche.                                                                              |
+|       30 | Aetherborn                           | Rare     | No    | Kaladesh-specific, niche.                                                                |
+|       31 | Aven                                 | Rare     | No    | MtG birdfolk; lower priority because Aarakocra/Kenku/Owlin already cover birdlike names. |
+|       32 | Aven (Hawk-Headed)                   | Rare     | No    | Variant of Aven; do after base Aven.                                                     |
+|       33 | Aven (Ibis-Headed)                   | Rare     | No    | Variant of Aven; do after base Aven.                                                     |
+|       34 | Boggart                              | Rare     | No    | Lorwyn-specific goblinoid; lower priority because Goblin is already done.                |
+|       35 | Lorwyn Changeling                    | Rare     | No    | Setting-specific variant; Changeling is already done.                                    |
+|       36 | Faerie                               | Rare     | No    | Very close to Fairy, which is already done. Only needed for spelling/setting coverage.   |
+|       37 | Dwarf (Kaladesh)                     | Rare     | No    | Setting-specific dwarf variant; low priority because Dwarf is already done.              |
+|       38 | Elf (Eladrin)                        | Uncommon | No    | Mostly duplicate coverage because Eladrin and Elf are already done.                      |
+|       39 | Elf (Pallid)                         | Rare     | No    | Critical Role/Wildemount-specific elf variant.                                           |
+|       40 | Elf (Kaladesh)                       | Rare     | No    | Setting-specific elf umbrella.                                                           |
+|       41 | Elf (Kaladesh; Bishatar and Tirahar) | Rare     | No    | Sub-variant of Kaladesh Elf.                                                             |
+|       42 | Elf (Kaladesh; Vahadar)              | Rare     | No    | Sub-variant of Kaladesh Elf.                                                             |
+|       43 | Elf (Zendikar)                       | Rare     | No    | Setting-specific elf umbrella.                                                           |
+|       44 | Elf (Zendikar; Joraga Nation)        | Rare     | No    | Sub-variant of Zendikar Elf.                                                             |
+|       45 | Elf (Zendikar; Mul Daya Nation)      | Rare     | No    | Sub-variant of Zendikar Elf.                                                             |
+|       46 | Elf (Zendikar; Tajuru Nation)        | Rare     | No    | Sub-variant of Zendikar Elf.                                                             |
+|       47 | Goblin (Ixalan)                      | Rare     | No    | Setting-specific goblin variant; Goblin is already done.                                 |
+|       48 | Goblin (Zendikar; Grotag Tribe)      | Rare     | No    | Tribe variant; low priority unless doing Zendikar set.                                   |
+|       49 | Goblin (Zendikar; Lavastep Tribe)    | Rare     | No    | Tribe variant; low priority unless doing Zendikar set.                                   |
+|       50 | Goblin (Zendikar; Tuktuk Tribe)      | Rare     | No    | Tribe variant; low priority unless doing Zendikar set.                                   |
+|       51 | Halfling (Lotusden)                  | Rare     | No    | Subrace variant; Halfling and Ghostwise are already done.                                |
+|       52 | Merfolk (Ixalan; Blue)               | Rare     | No    | Variant of Merfolk; do after base Merfolk.                                               |
+|       53 | Merfolk (Ixalan; Green)              | Rare     | No    | Variant of Merfolk; do after base Merfolk.                                               |
+|       54 | Merfolk (Zendikar; Cosi Creed)       | Rare     | No    | Variant of Merfolk; do after base Merfolk.                                               |
+|       55 | Merfolk (Zendikar; Emeria Creed)     | Rare     | No    | Variant of Merfolk; do after base Merfolk.                                               |
+|       56 | Merfolk (Zendikar; Ula Creed)        | Rare     | No    | Variant of Merfolk; do after base Merfolk.                                               |
+|       57 | Minotaur (Amonkhet)                  | Rare     | No    | Setting variant; Minotaur is already done.                                               |
+|       58 | Orc (Ixalan)                         | Rare     | No    | Setting variant; Orc is already done.                                                    |
+|       59 | Vampire (Ixalan)                     | Rare     | No    | Setting variant; Vampire is already done.                                                |
+|       60 | Vampire (Zendikar)                   | Rare     | No    | Setting variant; Vampire is already done.                                                |
+|       61 | Custom Lineage                       | Special  | No    | Lowest practical priority because it is not really a race with a fixed naming culture.   |
