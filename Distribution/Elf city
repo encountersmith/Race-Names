@@ -1,0 +1,199 @@
+{
+  "distribution_name": "Elf-Based DND5e City Race Distribution",
+  "description": "Unofficial practical generator weights for an elf-majority D&D 5e city. Percentages total 100 and favour elves, half-elves, fey-adjacent peoples, forest peoples, and races likely to live in or visit an elven city.",
+  "total_percentage": 100.0,
+  "races": [
+    {
+      "race": "Elf",
+      "percentage": 53.77
+    },
+    {
+      "race": "Half-Elf Wood Elf Descent",
+      "percentage": 8.0
+    },
+    {
+      "race": "Human",
+      "percentage": 7.0
+    },
+    {
+      "race": "Eladrin",
+      "percentage": 5.0
+    },
+    {
+      "race": "Halfling",
+      "percentage": 3.0
+    },
+    {
+      "race": "Gnome",
+      "percentage": 3.0
+    },
+    {
+      "race": "Fairy",
+      "percentage": 2.5
+    },
+    {
+      "race": "Firbolg",
+      "percentage": 2.0
+    },
+    {
+      "race": "Half-Elf Sun Elf Descent",
+      "percentage": 2.0
+    },
+    {
+      "race": "Shadar-Kai",
+      "percentage": 1.5
+    },
+    {
+      "race": "Dwarf",
+      "percentage": 1.5
+    },
+    {
+      "race": "Aasimar",
+      "percentage": 1.0
+    },
+    {
+      "race": "Satyr",
+      "percentage": 1.0
+    },
+    {
+      "race": "Tabaxi",
+      "percentage": 0.8
+    },
+    {
+      "race": "Half-Elf Drow Descent",
+      "percentage": 0.8
+    },
+    {
+      "race": "Tiefling",
+      "percentage": 0.7
+    },
+    {
+      "race": "Aarakocra",
+      "percentage": 0.6
+    },
+    {
+      "race": "Owlin",
+      "percentage": 0.6
+    },
+    {
+      "race": "Centaur",
+      "percentage": 0.6
+    },
+    {
+      "race": "Shifter",
+      "percentage": 0.5
+    },
+    {
+      "race": "Water Genasi",
+      "percentage": 0.4
+    },
+    {
+      "race": "Air Genasi",
+      "percentage": 0.4
+    },
+    {
+      "race": "Earth Genasi",
+      "percentage": 0.35
+    },
+    {
+      "race": "Half-Elf Aquatic Descent",
+      "percentage": 0.35
+    },
+    {
+      "race": "Triton",
+      "percentage": 0.25
+    },
+    {
+      "race": "Changeling",
+      "percentage": 0.25
+    },
+    {
+      "race": "Deep Gnome",
+      "percentage": 0.2
+    },
+    {
+      "race": "Goliath",
+      "percentage": 0.2
+    },
+    {
+      "race": "Metallic Dragonborn",
+      "percentage": 0.2
+    },
+    {
+      "race": "Chromatic Dragonborn",
+      "percentage": 0.15
+    },
+    {
+      "race": "Gem Dragonborn",
+      "percentage": 0.15
+    },
+    {
+      "race": "Warforged",
+      "percentage": 0.15
+    },
+    {
+      "race": "Kenku",
+      "percentage": 0.15
+    },
+    {
+      "race": "Lizardfolk",
+      "percentage": 0.12
+    },
+    {
+      "race": "Tortle",
+      "percentage": 0.1
+    },
+    {
+      "race": "Loxodon",
+      "percentage": 0.08
+    },
+    {
+      "race": "Leonin",
+      "percentage": 0.08
+    },
+    {
+      "race": "Half-Orc",
+      "percentage": 0.08
+    },
+    {
+      "race": "Fire Genasi",
+      "percentage": 0.08
+    },
+    {
+      "race": "Goblin",
+      "percentage": 0.08
+    },
+    {
+      "race": "Kobold",
+      "percentage": 0.06
+    },
+    {
+      "race": "Orc",
+      "percentage": 0.05
+    },
+    {
+      "race": "Hobgoblin",
+      "percentage": 0.05
+    },
+    {
+      "race": "Bugbear",
+      "percentage": 0.04
+    },
+    {
+      "race": "Duergar",
+      "percentage": 0.04
+    },
+    {
+      "race": "Minotaur",
+      "percentage": 0.03
+    },
+    {
+      "race": "Halfling Ghostwise",
+      "percentage": 0.03
+    },
+    {
+      "race": "Vampire",
+      "percentage": 0.01
+    }
+  ]
+}
